@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Cambria Hotel</Name>
+    <Address NearstAirport="Phoenix Sky Harbor">
+      <Number>101</Number>
+      <Street>E Van Buren St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85006</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>AC Hotel</Name>
+    <Phone>602-987-6543</Phone>
+    <Address NearstAirport="Mesa Gateway">
+      <Number>550</Number>
+      <Street>N 5th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3">
+    <Name>ALOFT Phoenix</Name>
+    <Phone>480-777-1212</Phone>
+    <Address>
+      <Number>4450</Number>
+      <Street>E Washington St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85034</Zip>
+
+  </Hotel>
+
+  <Hotel Rating="3.7">
+    <Name>Drury Inn & Suites</Name>
+    <Name>Duplicate Name</Name>
+    <Phone>480-101-2020</Phone>
+    <Address NearstAirport="Phoenix-Mesa Gateway">
+      <Number>333</Number>
+      <Street>N 44th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
+    </Address>
+  </Hotel>
+</Hotel>
